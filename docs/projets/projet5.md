@@ -1,3 +1,10 @@
+---
+tags :
+  - projet
+  - musiques
+---
+
+
 # Mes musiques
 
 Plongez dans mon exploration du monde de la musique électronique. Curieux de ce domaine, j'ai créé mes premières compositions en utilisant __FL Studio__, un logiciel puissant et intuitif.

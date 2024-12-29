@@ -1,3 +1,12 @@
+---
+tags :
+  - projet
+  - robot
+  - arduino
+---
+
+
+
 # Bras robot qui joue au echec
 
 ## 1. Bras robot 6 axes
