@@ -4,8 +4,8 @@ site_url: https://mydomain.org/mysite
 
 
 theme:
-  favicon: assets/favicon.jpg
-  logo: assets/logo.png
+  favicon: assets/favicon_3.png
+  logo: assets/logo_3.png
   name: material
  
   language: fr

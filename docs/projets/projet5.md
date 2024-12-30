@@ -7,12 +7,14 @@ tags :
 
 # Mes musiques
 
-Plongez dans mon exploration du monde de la musique électronique. Curieux de ce domaine, j'ai créé mes premières compositions en utilisant __FL Studio__, un logiciel puissant et intuitif.
 
-Ce projet m'a permis de découvrir les bases de la production musicale : composition, mixage et manipulation des sons. Chaque morceau représente une expérience unique, entre créativité et apprentissage technique.
+Plongez dans mon exploration passionnante du monde de la musique électronique. Curieux de ce domaine fascinant, j'ai commencé à créer mes premières compositions à l'aide de [**FL Studio**](https://www.image-line.com/fl-studio/){:target="_blank"}, un logiciel de production musicale reconnu pour sa puissance, sa flexibilité et son interface intuitive.
 
-N'hésitez pas à écouter mes créations ! 
+Grâce à [**FL Studio**](https://www.image-line.com/fl-studio/){:target="_blank"}, j'ai pu découvrir un éventail d'outils et de fonctionnalités, comme l'utilisation de séquenceurs pas à pas, de synthétiseurs virtuels et d'effets audio avancés. Ce logiciel m'a permis de maîtriser les bases de la production musicale : la composition, le mixage, l'arrangement et la manipulation créative des sons. Son ergonomie m'a également encouragé à expérimenter avec des rythmes, des mélodies et des textures sonores uniques.
 
+Pour m'aider à débuter et produire mes premiers morceaux de house music, une ressource précieuse a été cette vidéo inspirante de la chaîne ANTJOY : [Comment faire un son House avec FL Studio](https://www.youtube.com/watch?v=Fo1fFzmDaV4&ab_channel=ANTJOY){:target="_blank"}. Elle m'a guidé pas à pas dans la création de mes premiers morceaux, en m'offrant des astuces pratiques et des techniques que j'ai pu immédiatement appliquer.
+
+N'hésitez pas à plonger dans mon univers sonore et à écouter mes créations !
 
 ## Musiktor
 
