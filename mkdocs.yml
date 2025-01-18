@@ -42,9 +42,9 @@ theme:
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
+   # - navigation.tabs
+   # - navigation.tabs.sticky
+   # - navigation.sections
     - navigation.expand
     - navigation.path
     - navigation.top
@@ -65,7 +65,7 @@ plugins:
 nav : 
 - Accueil: index.md
 - Projets :  
-  - projets/index.md 
+ # - projets/index.md 
   - Mon Matériel : projets/tools.md
   - Robot détecteur d'obstacles: projets/projet1.md
   - Volets automatiques : projets/projet2.md
