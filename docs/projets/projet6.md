@@ -15,16 +15,16 @@ Grâce à Divi, j'ai pu personnaliser chaque aspect du design, en harmonisant le
 
 Ce projet m'a permis de combiner ma passion pour le web design avec des outils puissants comme WordPress et Divi, tout en répondant aux besoins d'une communauté sportive.
 
-![site aikido](images/site_aspc.png){ width="700" align=center }
+![site aikido](images/site_aspc.png){ width="700" align=center style="border-radius:5px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
 
-[:octicons-arrow-right-16: lien du site](http://aspc.aikido.angers.free.fr/){:target="_blank" .md-button .md-button--primary }
+[:octicons-arrow-right-16: lien du site](http://aspc.aikido.angers.free.fr/){:target="_blank" .md-button .md-button--primary  }
 
 
 ## 2. Site QCM arbitre de basket
 
 Sur ce site, vous pouvez vous entraîner au QCM de la formation d'arbitre officiel départemental. Il y a 10 questions vrai-faux et 10 questions à choix multiples sur le règlement de jeu et les procédures, tirées au hasard parmi 200 questions. Lorsque vous recommencez, une autre serie de 20 questions sera à nouveau tirée au hasard. Attention, il peut y avoir plusieurs bonnes réponses.
 
-![site qcm arbitre basket](images/site_qcm_basket.png){ width="700" align=center }
+![site qcm arbitre basket](images/site_qcm_basket.png){ width="700" align=center style="border-radius:5px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
 
 
 [:octicons-arrow-right-16: lien du site](https://qcm-arbitre-basket.free.nf/){:target="_blank" .md-button .md-button--primary }
