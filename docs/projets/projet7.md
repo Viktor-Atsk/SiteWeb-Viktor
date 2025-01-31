@@ -1,4 +1,4 @@
-# Ma Chaine youtube : Vik67
+# Vik67
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-J’ai lancé ma chaîne Vik67 à l’âge de 13 ans, poussé par ma passion pour la création de contenu. À travers mes vidéos, je partage des sujets variés comme la technologie, les jeux vidéo, la 3D, des tutoriels, et bien plus encore.
+J’ai lancé ma chaîne youtube à l’âge de 13 ans, poussé par ma passion pour la création de contenu. À travers mes vidéos, je partage des sujets variés comme la technologie, les jeux vidéo, la 3D, des tutoriels, et bien plus encore.
 
 Pour concevoir les miniatures de mes vidéos, j’utilise [**Photoshop**](https://www.adobe.com/fr/products/photoshop.html){:target="_blank"} , un logiciel puissant et polyvalent dédié au graphisme et à l’édition d’images. Grâce à lui, je peux jouer avec les couleurs, les effets de lumière, et les typographies pour créer des visuels qui captent immédiatement l’attention. Chaque miniature est pensée pour refléter le thème de la vidéo tout en restant claire et impactante.
 

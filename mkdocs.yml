@@ -3,8 +3,8 @@ site_url: https://mydomain.org/mysite
 
 
 theme:
-  favicon: assets/favicon_5.ico
-  logo: assets/logo_3.png
+  favicon: assets/favicon_4.png
+  logo: assets/logo_4.png
   name: material 
   language: fr
  
