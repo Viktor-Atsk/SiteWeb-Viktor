@@ -4,7 +4,7 @@ site_url: https://mydomain.org/mysite
 
 
 theme:
-  favicon: assets/favicon_4.png
+  favicon: assets/favicon_4.ico
   logo: assets/logo_3.png
   name: material
  
