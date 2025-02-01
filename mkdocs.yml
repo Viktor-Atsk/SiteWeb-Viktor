@@ -7,6 +7,7 @@ theme:
   logo: assets/logo-digital-V-4.png
   name: material 
   language: fr
+
  
 
   palette:
@@ -68,7 +69,7 @@ nav :
   - Robot détecteur d'obstacles: projets/projet1.md
   - Volets automatiques : projets/projet2.md
   - Bras robot : projets/projet3.md
-  - Panneau solaire : projets/projet4.md
+  - Panneaux Solaires : projets/projet4.md
   - Musiques : projets/projet5.md
   - Sites Webs : projets/projet6.md
   - Chaîne Youtube : projets/vik67.md
@@ -83,6 +84,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 extra:
   generator: false
