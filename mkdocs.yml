@@ -3,7 +3,7 @@ site_url: https://mydomain.org/mysite
 
 
 theme:
-  favicon: assets/favicon-32x32.png
+  favicon: favicon.ico
   logo: assets/logo-digital-V-4.png
   name: material 
   language: fr
