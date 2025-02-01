@@ -3,7 +3,7 @@
 
 
 
-![bannière](images/banniere_vik67_youtube.jpg)
+![bannière](images/banniere_vik67_youtube.jpg){style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
 
 
 
@@ -17,7 +17,7 @@ Plongez dans mon univers, abonnez-vous à Vik67 et découvrez tout ce que j’ai
 
 
 
-![chaine](images/logo_chaine_youtube.png){ width="300" align=center }
+![chaine](images/logo_chaine_youtube.png){ width="300" ; align=left ; vertical-align: middle; style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
 
 [:octicons-arrow-right-16: lien de la chaîne youtube](https://www.youtube.com/@vik67/featured){:target="_blank" .md-button .md-button--primary }
 
