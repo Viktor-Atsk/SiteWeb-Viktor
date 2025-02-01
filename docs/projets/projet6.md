@@ -27,4 +27,4 @@ Sur ce site, vous pouvez vous entraîner au QCM de la formation d'arbitre offici
 ![site qcm arbitre basket](images/site_qcm_basket.png){ width="700" align=center style="border-radius:5px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
 
 
-[:octicons-arrow-right-16: lien du site](https://qcm-arbitre-basket.free.nf/){:target="_blank" .md-button .md-button--primary }
+[:octicons-arrow-right-16: lien du site](http://qcm.arbitre.basket.free.fr/){:target="_blank" .md-button .md-button--primary }
