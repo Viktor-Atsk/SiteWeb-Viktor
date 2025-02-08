@@ -7,7 +7,7 @@ tags :
 
 
 
-# Bras robot qui joue au echec
+# Bras robot qui joue aux echecs
 
 ## 1. Bras robot 6 axes
 

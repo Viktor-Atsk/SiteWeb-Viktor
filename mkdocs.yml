@@ -54,10 +54,10 @@ theme:
     - toc.follow
 
 plugins:
-
   - search
   - tags : 
      tags_file: tags.md 
+    
 
 
 
@@ -79,6 +79,10 @@ nav :
 
 
 markdown_extensions: 
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
   - attr_list
   - md_in_html
   - pymdownx.emoji:
@@ -88,6 +92,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  
 
 extra:
   generator: false
