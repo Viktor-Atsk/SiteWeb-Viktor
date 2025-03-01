@@ -9,7 +9,7 @@ tags :
 
 ## 1. Site Aikido 
 
-J'ai créé un site web dédié à un club d'**Aïkido** en utilisant [**WordPress**](https://wordpress.com/fr/) et le constructeur de pages [**Divi**](https://www.elegantthemes.com/gallery/divi/). L'objectif était de concevoir un site à la fois esthétique, fonctionnelle et intuitive pour les membres du club et les visiteurs.
+J'ai créé un site web dédié à un club d'**Aïkido** en utilisant [**WordPress**](https://wordpress.com/fr/){:target="_blank"} et le constructeur de pages [**Divi**](https://www.elegantthemes.com/gallery/divi/){:target="_blank"}. L'objectif était de concevoir un site à la fois esthétique, fonctionnelle et intuitive pour les membres du club et les visiteurs.
 
 Grâce à Divi, j'ai pu personnaliser chaque aspect du design, en harmonisant les couleurs et les typographies pour refléter l'esprit zen et martial de l'Aïkido. J'ai également optimisé le site pour qu'il soit **responsive**, offrant une expérience fluide sur tous les appareils.
 

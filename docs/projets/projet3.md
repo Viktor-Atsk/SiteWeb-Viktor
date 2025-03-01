@@ -13,7 +13,7 @@ tags :
 ## 1. Bras robot 6 axes
 
 ### Présentation du projet
-J’ai conçu un bras robotique à 6 axes inspiré du modèle open source [**WE-R2.4 Six Axis Robot Arm**](https://www.printables.com/model/132260-we-r24-six-axis-robot-arm). Ce projet visait à recréer un modèle miniature de bras industriels observés lors de mon stage en entreprise.
+J’ai conçu un bras robotique à 6 axes inspiré du modèle open source [**WE-R2.4 Six Axis Robot Arm**](https://www.printables.com/model/132260-we-r24-six-axis-robot-arm){:target="_blank"}. Ce projet visait à recréer un modèle miniature de bras industriels observés lors de mon stage en entreprise.
 
 ---
 
@@ -26,8 +26,8 @@ J’ai conçu un bras robotique à 6 axes inspiré du modèle open source [**WE-
 - Utilisation d’une carte **Arduino Uno** et d’une carte **CNC Shield** pour piloter les moteurs pas à pas.  
 
 #### Programmation
-- Code Arduino avec des bibliothèques [AccelStepper](https://www.airspayce.com/mikem/arduino/AccelStepper/) pour synchroniser les moteurs et gérer des séquences de mouvements.  
-- Contrôlé avec un logiciel crée sur [Microsoft Visual Studio](https://visualstudio.microsoft.com/fr/)
+- Code Arduino avec des bibliothèques [AccelStepper](https://www.airspayce.com/mikem/arduino/AccelStepper/){:target="_blank"} pour synchroniser les moteurs et gérer des séquences de mouvements.  
+- Contrôlé avec un logiciel crée sur [Microsoft Visual Studio](https://visualstudio.microsoft.com/fr/){:target="_blank"}
 
 ---
 
