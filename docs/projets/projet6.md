@@ -1,7 +1,7 @@
 ---
 tags :
   - projet
-  - siteweb
+  - sitewebs
 ---
 
 
@@ -9,11 +9,10 @@ tags :
 
 ## 1. Site Aikido 
 
-Pour ce projet, j'ai créé un site web dédié à un club d'Aïkido en utilisant WordPress et le constructeur de pages Divi. L'objectif était de concevoir une plateforme à la fois esthétique, fonctionnelle et intuitive pour les membres du club et les visiteurs.
+J'ai créé un site web dédié à un club d'**Aïkido** en utilisant [**WordPress**](https://wordpress.com/fr/) et le constructeur de pages [**Divi**](https://www.elegantthemes.com/gallery/divi/). L'objectif était de concevoir un site à la fois esthétique, fonctionnelle et intuitive pour les membres du club et les visiteurs.
 
-Grâce à Divi, j'ai pu personnaliser chaque aspect du design, en harmonisant les couleurs et les typographies pour refléter l'esprit zen et martial de l'Aïkido. J'ai également optimisé le site pour qu'il soit responsive, offrant une expérience fluide sur tous les appareils, des ordinateurs aux smartphones.
+Grâce à Divi, j'ai pu personnaliser chaque aspect du design, en harmonisant les couleurs et les typographies pour refléter l'esprit zen et martial de l'Aïkido. J'ai également optimisé le site pour qu'il soit **responsive**, offrant une expérience fluide sur tous les appareils.
 
-Ce projet m'a permis de combiner ma passion pour le web design avec des outils puissants comme WordPress et Divi, tout en répondant aux besoins d'une communauté sportive.
 
 ![site aikido](images/site_aspc.png){ width="700" align=center style="border-radius:5px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
 
@@ -22,7 +21,8 @@ Ce projet m'a permis de combiner ma passion pour le web design avec des outils p
 
 ## 2. Site QCM arbitre de basket
 
-Sur ce site, vous pouvez vous entraîner au QCM de la formation d'arbitre officiel départemental. Il y a 10 questions vrai-faux et 10 questions à choix multiples sur le règlement de jeu et les procédures, tirées au hasard parmi 200 questions. Lorsque vous recommencez, une autre serie de 20 questions sera à nouveau tirée au hasard. Attention, il peut y avoir plusieurs bonnes réponses.
+Sur ce site, vous pouvez vous entraîner au QCM de la formation d'arbitre officiel départemental. Il y a 10 questions vrai-faux et 10 questions à choix multiples sur le règlement de jeu et les procédures, tirées au hasard parmi 200 questions. Lorsque vous recommencez, une autre serie de 20 questions sera à nouveau tirée au hasard. 
+
 
 ![site qcm arbitre basket](images/site_qcm_basket.png){ width="700" align=center style="border-radius:5px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"}
 

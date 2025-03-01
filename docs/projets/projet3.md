@@ -3,6 +3,7 @@ tags :
   - projet
   - robot
   - arduino
+  - logiciel
 ---
 
 
@@ -19,13 +20,13 @@ J’ai conçu un bras robotique à 6 axes inspiré du modèle open source [**WE-
 ### Aspects techniques
 
 #### Structure et fabrication
-- Structure imprimée en 3D, principalement en **PLA**, pour allier légèreté et robustesse.  
+- Structure imprimée en 3D, en **PLA**, pour allier légèreté et robustesse.  
 
 #### Électronique et contrôle
 - Utilisation d’une carte **Arduino Uno** et d’une carte **CNC Shield** pour piloter les moteurs pas à pas.  
 
 #### Programmation
-- Code Arduino avec des bibliothèques [AccelStepper](https://www.airspayce.com/mikem/arduino/AccelStepper/) pour synchroniser les moteurs et gérer des séquences de mouvements complexes.  
+- Code Arduino avec des bibliothèques [AccelStepper](https://www.airspayce.com/mikem/arduino/AccelStepper/) pour synchroniser les moteurs et gérer des séquences de mouvements.  
 - Contrôlé avec un logiciel crée sur [Microsoft Visual Studio](https://visualstudio.microsoft.com/fr/)
 
 ---
@@ -39,7 +40,7 @@ J’ai conçu un bras robotique à 6 axes inspiré du modèle open source [**WE-
 ---
 
 ### Conclusion
-Ce projet, réalisé sur **2 ans**, a permis de reproduire le fonctionnement des bras industriels à petite échelle. Malgré les défis techniques, j’ai créé un système fonctionnel.  
+Ce projet, réalisé sur **2 ans**, m'a permis de reproduire le fonctionnement des bras industriels à petite échelle. Malgré les défis techniques, j’ai créé un système fonctionnel.  
 
 **À refaire :**  
 J’investirais dans des moteurs de meilleure qualité. J'ajouterai des endstops pour améliorer le calibrage et la précision. Il faut revoir la conception 3D pour réduire les tremblements et améliorer la précision.

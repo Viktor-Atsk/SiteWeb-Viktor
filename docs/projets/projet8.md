@@ -1,4 +1,11 @@
-# IA
+---
+tags :
+  - projet
+  - IA
+  - logiciel
+---
+
+# Intelligences Artificielles
 
 
 ## Exemple de video sur Michael Jordan
@@ -14,13 +21,13 @@ J’ai utilisé [ChatGPT](https://chatgpt.com/){:target="_blank"} pour créer de
 
 Les images utilisées dans les vidéos ont été générées grâce à deux outils d’IA :  
 - [Midjourney](https://www.midjourney.com/home){:target="_blank"}, qui permet de créer des illustrations originales à partir d’une description.  
-- [Leonardo AI](https://leonardo.ai/){:target="_blank"}, que j’ai utilisé pour enrichir les visuels avec un style unique ou des détails spécifiques.
+- [Leonardo AI](https://leonardo.ai/){:target="_blank"}, que j’ai utilisé pour enrichir les visuels.
 
 ### Animation des personnages :
 Pour donner vie aux images, j’ai utilisé [Vidnoz](https://fr.vidnoz.com/){:target="_blank"}. Cet outil permet d’animer les visages et de les synchroniser avec une voix génerer pas IA, ce qui rend le contenu plus immersif.
 
 ### Montage final :
-J’ai réalisé le montage avec [CapCut](https://www.capcut.com/fr-fr/){:target="_blank"}. Ce logiciel m’a permis de regrouper les éléments (visuels animés et audio), d’ajouter des sous-titres automatiques pour améliorer l’accessibilité et d’intégrer des transitions ou des effets.
+J’ai réalisé le montage avec [CapCut](https://www.capcut.com/fr-fr/){:target="_blank"}. Ce logiciel m’a permis de regrouper les éléments, d’ajouter des sous-titres automatiques pour améliorer l’accessibilité et d’intégrer des transitions ou des effets.
 
 ### Temps nécessaire :
 Chaque vidéo me prend environ 1 heure à créer, de l’idée initiale à la version finale.

@@ -2,15 +2,16 @@
 tags :
   - projet
   - musiques
+  - logiciel
 ---
 
 
 # Mes musiques
 
 
-Plongez dans mon exploration passionnante du monde de la musique électronique. Curieux de ce domaine fascinant, j'ai commencé à créer mes premières compositions à l'aide de [**FL Studio**](https://www.image-line.com/fl-studio/){:target="_blank"}, un logiciel de production musicale reconnu pour sa puissance, sa flexibilité et son interface intuitive.
+Je crée mes musiques électroniques à l'aide de [**FL Studio**](https://www.image-line.com/fl-studio/){:target="_blank"}, un logiciel de production musicale reconnu pour sa puissance, sa popularité et son interface intuitive.
 
-Grâce à [**FL Studio**](https://www.image-line.com/fl-studio/){:target="_blank"}, j'ai pu découvrir un éventail d'outils et de fonctionnalités, comme l'utilisation de séquenceurs pas à pas, de synthétiseurs virtuels et d'effets audio avancés. Ce logiciel m'a permis de maîtriser les bases de la production musicale : la composition, le mixage, l'arrangement et la manipulation créative des sons. Son ergonomie m'a également encouragé à expérimenter avec des rythmes, des mélodies et des textures sonores uniques.
+Grâce à [**FL Studio**](https://www.image-line.com/fl-studio/){:target="_blank"}, j'ai pu découvrir des outils et des fonctionnalités, comme l'utilisation de séquenceurs, de synthétiseurs virtuels et d'effets audio. Ce logiciel m'a permis de maîtriser les bases de la production musicale électronique : la composition, le mixage, l'arrangement et la manipulation créative des sons.
 
 Pour m'aider à débuter et produire mes premiers morceaux de house music, une ressource précieuse a été cette vidéo inspirante de la chaîne ANTJOY : [Comment faire un son House avec FL Studio](https://www.youtube.com/watch?v=Fo1fFzmDaV4&ab_channel=ANTJOY){:target="_blank"}. Elle m'a guidé pas à pas dans la création de mes premiers morceaux, en m'offrant des astuces pratiques et des techniques que j'ai pu immédiatement appliquer.
 
