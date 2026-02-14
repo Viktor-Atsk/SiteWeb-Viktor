@@ -34,9 +34,10 @@ Grâce à mon parcours et à mon expérience, j’ai acquis une solide maîtrise
     Si vous souhaitez échanger, discuter d’un projet ou collaborer, n’hésitez pas à me contacter :  
 
     📧 **Email** : *antosik.vik.pro@gmail.com*  
-    <!-- 💼 **LinkedIn** : ... -->
+    :material-linkedin: **LinkedIn** : [Viktor Antosik](https://www.linkedin.com/in/viktor-antosik-a53777370){:target="_blank"}    
     🌐 **Site web** : *digitalv.fr*  
     📍  **Localisation** : *Pays de la Loire*  
 
  
+
 
