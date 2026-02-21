@@ -6,7 +6,7 @@ tags :
 
 # Panneaux solaires montés soi-même : installation de **3kW avec batterie**
 
-![abris-panneau](images/abris-panneau.jpg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="500"}
+[![abris-panneau](images/abris-panneau.jpg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="500"}](images/abris-panneau.jpg)
 
 
 ### **Projet : Choisir et Comprendre les Panneaux Solaires pour une Installation Autonome**

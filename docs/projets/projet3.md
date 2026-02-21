@@ -59,5 +59,5 @@ J’investirais dans des moteurs de meilleure qualité. J'ajouterai des endstops
 
 ## 2. Bras robot 4 axes
 
-![setup1](images/robot_arm_V2.1.jpg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}
+[![setup1](images/robot_arm_V2.1.jpg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}](images/robot_arm_V2.1.jpg)
 
