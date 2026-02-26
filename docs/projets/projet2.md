@@ -27,8 +27,8 @@ J’ai réalisé un circuit électronique et effectué les soudures.
 J’utilise un ESP32 pour envoyer les impulsions électriques. L’ESP32 est une carte programmable avec Wi-Fi, qui se connecte à mon assistant domotique Home Assistant.
 
 
-![Velux 3](images/Velux_3.jpeg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}
-![Velux 2](images/Velux_2.jpg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}
+[![Velux 3](images/Velux_3.jpeg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}](images/Velux_3.jpeg)
+[![Velux 2](images/Velux_2.jpg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}](images/Velux_2.jpg)
 
 
 ---
@@ -37,8 +37,8 @@ J’ai modélisé puis imprimé en 3D le boîtier afin de cacher l’électroniq
 L’ensemble est alimenté en USB.
 
 
-![Velux 3](images/Velux_5.jpeg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}
-![Velux 2](images/Velux_6.jpeg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}
+[![Velux 3](images/Velux_5.jpeg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}](images/Velux_5.jpeg)
+[![Velux 2](images/Velux_6.jpeg){ style="border-radius:10px ; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" width="300"}](images/Velux_6.jpeg)
 
 ---
 

@@ -53,6 +53,7 @@ theme:
     - search.share
     - navigation.indexes 
     - toc.follow
+    
 
 plugins:
   - search
